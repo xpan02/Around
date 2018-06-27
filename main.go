@@ -20,10 +20,10 @@ const (
 	TYPE     = "post"
 	DISTANCE = "200km"
 	// Needs to update
-	//PROJECT_ID = "around-xxx"
-	//BT_INSTANCE = "around-post"
+	PROJECT_ID  = "around-207712"
+	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL      = "http://35.225.145.223:9200"
+	ES_URL      = "http://35.184.187.35:9200"
 	BUCKET_NAME = "post-images-207712"
 )
 
